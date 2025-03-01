@@ -85,6 +85,8 @@ nmcli connection modify "<CONNECTION NAME>" 802-3-ethernet.wake-on-lan ignore
 
 This command changes the "Wake-on-LAN" setting from "magic" to "ignore," which ensures that your Ubuntu device will no longer respond to magic packets on your network connection.
 
-## Source
+## Sources
 
 https://pimylifeup.com/ubuntu-enable-wake-on-lan/
+
+https://www.depicus.com/wake-on-lan/wake-on-lan-cmd
